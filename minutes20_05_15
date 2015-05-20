@@ -6,9 +6,10 @@ Present
 * Ian
 * James
 * Steve
+* Sree
 * Jeremy
 * Ulf
-* Rei
+* Rui
 
 Apologies
 ---------
@@ -19,3 +20,45 @@ Apologies
 
 Discussion
 ----------
+
+* Ian has been asked to build a community of Linux users in biosciences
+* Sree pointed out that researchers can be very conservative on technology (e.g. Make vs CMake, git, tdd)
+    * Suggests Blog for pushing new techs
+    
+Name:
+
+* UCL Research Programming Hub
+
+Remit:
+
+* Reproducibility.
+* Code as scholarly communication
+* Publishing code as research
+* Infrastructure is included -- DevOps and software-defined infrastructure
+* Visualisation
+* Productivity : languages and tools -- time to science
+* Publicity : we promote ucl-written software.
+* Citation and measurement: we're interested in research metrics for programming research
+* Curate: training courses, resources...
+
+Who:
+
+PhD students more pliable than 
+
+How:
+
+Membership via pull requests
+Page of affiliated UCL groups
+Page of national networks we're interested in. (E.g. UKCOMES)
+
+Actions
+-------
+
+JH: Create empty webpage
+JH: Create template for a group signup
+JH: Create empty committee page with names
+JY: Create first draft copy for page
+IS: Contact Dan Buchan to join group
+IS: Find out whether we can use iAnn/Elixir training infrastructure for other stuff
+ALL: Join UKRSE
+ALL: Send exemplar pull requests for signup
